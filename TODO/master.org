@@ -1,8 +1,9 @@
 * Backlog
-** TODO Set up mocha
 ** TODO Write some tests
 * Finished
 ** DONE Set up things in git
    CLOSED: [2017-11-01 Wed 10:19]
 ** DONE Set up package.json
    CLOSED: [2017-11-01 Wed 10:25]
+** DONE Set up mocha/chai
+   CLOSED: [2017-11-01 Wed 10:39]

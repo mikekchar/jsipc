@@ -11,5 +11,9 @@
     "channel"
   ],
   "author": "Mike Charlton",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
 }
