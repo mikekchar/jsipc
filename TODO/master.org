@@ -1,5 +1,4 @@
 * Backlog
-** TODO Write some tests
 * Finished
 ** DONE Set up things in git
    CLOSED: [2017-11-01 Wed 10:19]
@@ -7,3 +6,5 @@
    CLOSED: [2017-11-01 Wed 10:25]
 ** DONE Set up mocha/chai
    CLOSED: [2017-11-01 Wed 10:39]
+** DONE Write a single test
+   CLOSED: [2017-11-01 Wed 10:49]
