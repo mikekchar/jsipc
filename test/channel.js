@@ -1,7 +1,8 @@
 const expect = require('chai').expect;
+const Channel = require('../src/channel');
 
-describe('Nothing', () => {
-  it('does not fail', () => {
-    expect(true).to.equal(true);
+describe('Channel', () => {
+  it('exists', () => {
+    expect(Channel).not.to.equal(null);
   });
 });
